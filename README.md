@@ -7,4 +7,4 @@ Below is a Shiny App to quickly plot trends across generation for multiple files
 * Summary_Statistics_QTL
 * LD_Decay
 
-Here is the link to Geno-Diver Shiny App.
+Here is the link to [Geno-Diver Shiny App](https://jeremyhoward.shinyapps.io/genodiverapp/).
